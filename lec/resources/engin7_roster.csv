@@ -1,0 +1,435 @@
+Number,Major 1,Major 2,Terms
+1,Mechanical Engineering BS,,3
+2,Chemical Engineering BS,,5
+3,Mechanical Engineering BS,,7
+4,Mechanical Engineering BS,,7
+5,Industrial Eng & Ops Rsch BS,,7
+6,Letters & Sci Undeclared UG,,6
+7,Civil Engineering BS,,3
+8,Astrophysics BA,,5
+9,Civil Engineering BS,,5
+10,Eng Math & Statistics BS,,5
+11,Civil Engineering BS,,5
+12,Letters & Sci Undeclared UG,,4
+13,Civil Engineering BS,,5
+14,Letters & Sci Undeclared UG,Nutrition & Metabolic Bio BS,5
+15,Civil Engineering BS,,5
+16,Civil Engineering BS,,5
+17,Bioengineering BS,,5
+18,Civil Engineering BS,,5
+19,Mechanical Engineering BS,,3
+20,Civil Engineering BS,,5
+21,Electrical Eng & Comp Sci BS,Industrial Eng & Ops Rsch BS,5
+22,Civil Engineering BS,,5
+23,Letters & Sci Undeclared UG,,5
+24,Civil Engineering BS,,5
+25,Civil Engineering BS,,5
+26,Chemical Engineering BS,Letters & Sci Undeclared UG,5
+27,Letters & Sci Undeclared UG,,5
+28,Civil Engineering BS,,5
+29,Letters & Sci Undeclared UG,,5
+30,Letters & Sci Undeclared UG,,5
+31,Industrial Eng & Ops Rsch BS,,5
+32,Nuclear Engineering BS,,5
+33,Industrial Eng & Ops Rsch BS,,5
+34,Industrial Eng & Ops Rsch BS,,5
+35,Civil Engineering BS,,5
+36,Civil Engineering BS,,5
+37,Letters & Sci Undeclared UG,,5
+38,Chemical Engineering BS,,5
+39,Mechanical Engineering BS,,1
+40,Mechanical Engineering BS,,5
+41,Aerospace Engineering BS,,3
+42,Political Science BA,,5
+43,Civil Engineering BS,,5
+44,Architecture BA,,3
+45,Bioengineering BS,Business Administration BS,3
+46,Bioengineering BS,,3
+47,Mechanical Engineering BS,,3
+48,Bioengineering BS,,3
+49,Civil Engineering BS,,3
+50,Civil Engineering BS,,3
+51,Civil Engineering BS,,3
+52,Mechanical Engineering BS,,3
+53,Bioengineering BS,,3
+54,Industrial Eng & Ops Rsch BS,,3
+55,Business Administration BS,Industrial Eng & Ops Rsch BS,3
+56,Civil Engineering BS,,3
+57,Electrical Eng & Comp Sci BS,,3
+58,Business Administration BS,Civil Engineering BS,3
+59,Bioengineering BS,Business Administration BS,3
+60,Mechanical Engineering BS,,3
+61,Chemical Engineering BS,,1
+62,Letters & Sci Undeclared UG,,1
+63,Mechanical Engineering BS,,1
+64,Civil Engineering BS,,3
+65,Letters & Sci Undeclared UG,,3
+66,Civil Engineering BS,,3
+67,Bioengineering BS,,3
+68,Civil Engineering BS,,3
+69,Civil Engineering BS,,3
+70,Letters & Sci Undeclared UG,,3
+71,Aerospace Engineering BS,,3
+72,Bioengineering BS,,3
+73,Civil Engineering BS,,3
+74,Civil Engineering BS,,3
+75,Mechanical Engineering BS,,3
+76,Letters & Sci Undeclared UG,,3
+77,Bioengineering BS,,3
+78,Engineering Undeclared UG,,3
+79,Environmental Engin Sci  BS,,3
+80,Mechanical Engineering BS,,3
+81,Engineering Undeclared UG,,3
+82,Civil Engineering BS,Linguistics BA,3
+83,Mechanical Engineering BS,,3
+84,Mechanical Engineering BS,,3
+85,Environmental Engin Sci  BS,,2
+86,Nuclear Engineering BS,,3
+87,Civil Engineering BS,,3
+88,Civil Engineering BS,,3
+89,Letters & Sci Undeclared UG,,3
+90,Mechanical Engineering BS,,3
+91,Civil Engineering BS,,3
+92,Letters & Sci Undeclared UG,,3
+93,Environmental Engin Sci  BS,,3
+94,Civil Engineering BS,,3
+95,Letters & Sci Undeclared UG,,3
+96,Civil Engineering BS,,3
+97,Environmental Engin Sci  BS,,3
+98,Letters & Sci Undeclared UG,,3
+99,Industrial Eng & Ops Rsch BS,,3
+100,Nuclear Engineering BS,,3
+101,Materials Science & Eng BS,,3
+102,Mechanical Engineering BS,,3
+103,Mechanical Engineering BS,,3
+104,Civil Engineering BS,,3
+105,Materials Science & Eng BS,,3
+106,Engineering Undeclared UG,,3
+107,Civil Engineering BS,,3
+108,Bioengineering BS,,3
+109,Materials Science & Eng BS,,3
+110,Eng Math & Statistics BS,,3
+111,Civil Engineering BS,,3
+112,Business Administration BS,,3
+113,Chemical Engineering BS,,3
+114,Bioengineering BS,,3
+115,Letters & Sci Undeclared UG,,3
+116,Statistics BA,,3
+117,Civil Engineering BS,,3
+118,Civil Engineering BS,,3
+119,Civil Engineering BS,,3
+120,Civil Engineering BS,,3
+121,Landscape Architecture BA,,3
+122,Aerospace Engineering BS,,3
+123,Industrial Eng & Ops Rsch BS,,3
+124,Letters & Sci Undeclared UG,,3
+125,Civil Engineering BS,,3
+126,Civil Engineering BS,,3
+127,Environmental Sciences BS,,3
+128,Letters & Sci Undeclared UG,,3
+129,Bioengineering BS,,3
+130,Civil Engineering BS,,3
+131,Materials Science & Eng BS,,3
+132,Civil Engineering BS,,3
+133,Environmental Sciences BS,,3
+134,Mechanical Engineering BS,,3
+135,Letters & Sci Undeclared UG,,3
+136,Civil Engineering BS,,3
+137,Bioengineering BS,,3
+138,Legal Studies BA,,3
+139,Chemistry BS,,3
+140,Nuclear Engineering BS,,3
+141,Mechanical Engineering BS,,3
+142,Letters & Sci Undeclared UG,,3
+143,Materials Science & Eng BS,,3
+144,Mechanical Engineering BS,,3
+145,Civil Engineering BS,,3
+146,Environmental Sciences BS,Letters & Sci Undeclared UG,3
+147,Environmental Engin Sci  BS,,3
+148,Mechanical Engineering BS,,3
+149,Civil Engineering BS,,3
+150,Civil Engineering BS,,3
+151,Civil Engineering BS,,3
+152,Civil Engineering BS,,3
+153,Civil Engineering BS,,3
+154,Industrial Eng & Ops Rsch BS,,3
+155,Genetics & Plant Biology BS,,3
+156,Bioengineering BS,,3
+157,Industrial Eng & Ops Rsch BS,,3
+158,Civil Engineering BS,,3
+159,Civil Engineering BS,,3
+160,Civil Engineering BS,,3
+161,Mechanical Engineering BS,,3
+162,Industrial Eng & Ops Rsch BS,,3
+163,Civil Engineering BS,,3
+164,Letters & Sci Undeclared UG,,3
+165,Civil Engineering BS,,3
+166,Letters & Sci Undeclared UG,,3
+167,Civil Engineering BS,,3
+168,Chemical Engineering BS,,7
+169,Aerospace Engineering BS,,7
+170,Chemical Engineering BS,,7
+171,Letters & Sci Undeclared UG,,7
+172,Civil Engineering BS,,7
+173,Applied Mathematics BA,,5
+174,Aerospace Engineering BS,,1
+175,Business Administration BS,Mechanical Engineering BS,1
+176,Business Administration BS,Mechanical Engineering BS,1
+177,Mechanical Engineering BS,,1
+178,Chemical Engineering BS,,1
+179,Bioengineering BS,,1
+180,Business Administration BS,Mechanical Engineering BS,1
+181,Bioengineering BS,Business Administration BS,1
+182,Materials Science & Eng BS,,1
+183,Business Administration BS,Industrial Eng & Ops Rsch BS,1
+184,Business Administration BS,Industrial Eng & Ops Rsch BS,1
+185,Business Administration BS,Mechanical Engineering BS,1
+186,Mechanical Engineering BS,,1
+187,Mechanical Engineering BS,,1
+188,Aerospace Engineering BS,,1
+189,Mechanical Engineering BS,,1
+190,Energy Engineering BS,,1
+191,Letters & Sci Undeclared UG,,1
+192,Bioengineering BS,,1
+193,Mechanical Engineering BS,,1
+194,Mechanical Engineering BS,,1
+195,Conserv & Resource Stds BS,,1
+196,Chemical Engineering BS,,1
+197,Industrial Eng & Ops Rsch BS,,1
+198,Mechanical Engineering BS,,1
+199,Letters & Sci Undeclared UG,,1
+200,Nuclear Engineering BS,,1
+201,Mechanical Engineering BS,,1
+202,Environmental Engin Sci  BS,,1
+203,Engineering Undeclared UG,,1
+204,Letters & Sci Undeclared UG,,1
+205,Bioengineering BS,,1
+206,Chemical Engineering BS,,1
+207,Letters & Sci Undeclared UG,,1
+208,Industrial Eng & Ops Rsch BS,,1
+209,Letters & Sci Undeclared UG,,1
+210,Materials Science & Eng BS,,1
+211,Engineering Undeclared UG,,1
+212,Mechanical Engineering BS,,1
+213,Mechanical Engineering BS,,1
+214,Eng Math & Statistics BS,,1
+215,Materials Science & Eng BS,,1
+216,Chemical Engineering BS,,1
+217,Letters & Sci Undeclared UG,,1
+218,Bioengineering BS,,1
+219,Chemical Engineering BS,,1
+220,Environmental Engin Sci  BS,,1
+221,Environmental Engin Sci  BS,,1
+222,Letters & Sci Undeclared UG,,1
+223,Mechanical Engineering BS,,1
+224,Mechanical Engineering BS,,1
+225,Letters & Sci Undeclared UG,,1
+226,Environmental Engin Sci  BS,,1
+227,Mechanical Engineering BS,,1
+228,Chemical Engineering BS,,1
+229,Bioengineering BS,,1
+230,Architecture BA,,1
+231,Engineering Physics BS,,1
+232,Mechanical Engineering BS,,1
+233,CNR Undeclared UG,,1
+234,Mechanical Engineering BS,,1
+235,Aerospace Engineering BS,,1
+236,Aerospace Engineering BS,,1
+237,Civil Engineering BS,,1
+238,Nuclear Engineering BS,,1
+239,Mechanical Engineering BS,,1
+240,Civil Engineering BS,,1
+241,Bioengineering BS,,1
+242,Materials Science & Eng BS,,1
+243,Civil Engineering BS,,1
+244,Nuclear Engineering BS,,1
+245,Nuclear Engineering BS,,1
+246,Chemical Engineering BS,,1
+247,Materials Science & Eng BS,,1
+248,Nuclear Engineering BS,,1
+249,Materials Science & Eng BS,,1
+250,Mechanical Engineering BS,,1
+251,Mechanical Engineering BS,,1
+252,Industrial Eng & Ops Rsch BS,,1
+253,Mechanical Engineering BS,,1
+254,Letters & Sci Undeclared UG,,1
+255,Letters & Sci Undeclared UG,,1
+256,Aerospace Engineering BS,,1
+257,Genetics & Plant Biology BS,,1
+258,Civil Engineering BS,,1
+259,Engineering Undeclared UG,,1
+260,Aerospace Engineering BS,,1
+261,Mechanical Engineering BS,,1
+262,Chemical Engineering BS,,1
+263,Nuclear Engineering BS,,1
+264,Energy Engineering BS,,1
+265,Letters & Sci Undeclared UG,,1
+266,Mechanical Engineering BS,,1
+267,Chemical Engineering BS,,1
+268,Mechanical Engineering BS,,1
+269,Chemical Engineering BS,,1
+270,Industrial Eng & Ops Rsch BS,,1
+271,Mechanical Engineering BS,,1
+272,Chemical Engineering BS,,1
+273,Letters & Sci Undeclared UG,,1
+274,Nuclear Engineering BS,,1
+275,Energy Engineering BS,,1
+276,Engineering Undeclared UG,,1
+277,Nuclear Engineering BS,,1
+278,Environmental Engin Sci  BS,,1
+279,Aerospace Engineering BS,,1
+280,Environmental Engin Sci  BS,,1
+281,Industrial Eng & Ops Rsch BS,,1
+282,Civil Engineering BS,,1
+283,Letters & Sci Undeclared UG,,1
+284,Engineering Undeclared UG,,1
+285,Mechanical Engineering BS,,1
+286,Letters & Sci Undeclared UG,,1
+287,Nuclear Engineering BS,,1
+288,Engineering Undeclared UG,,1
+289,Energy Engineering BS,,1
+290,Letters & Sci Undeclared UG,,1
+291,Chemical Engineering BS,,1
+292,Chemical Engineering BS,,1
+293,Aerospace Engineering BS,,1
+294,Mechanical Engineering BS,,1
+295,Mechanical Engineering BS,,1
+296,Letters & Sci Undeclared UG,,1
+297,Engineering Undeclared UG,,1
+298,Letters & Sci Undeclared UG,,1
+299,Nuclear Engineering BS,,1
+300,Materials Science & Eng BS,,1
+301,Industrial Eng & Ops Rsch BS,,1
+302,Business Administration BS,,1
+303,Mechanical Engineering BS,,1
+304,Mechanical Engineering BS,,1
+305,Letters & Sci Undeclared UG,,1
+306,Chemical Engineering BS,,1
+307,Energy Engineering BS,,1
+308,Mechanical Engineering BS,,1
+309,Chemical Engineering BS,,1
+310,Materials Science & Eng BS,,1
+311,Materials Science & Eng BS,,1
+312,Chemical Engineering BS,,1
+313,Mechanical Engineering BS,,1
+314,Letters & Sci Undeclared UG,,1
+315,Energy Engineering BS,,1
+316,Civil Engineering BS,,1
+317,Environmental Engin Sci  BS,,1
+318,Mechanical Engineering BS,,1
+319,Energy Engineering BS,,1
+320,Chemical Engineering BS,,1
+321,Industrial Eng & Ops Rsch BS,,1
+322,Industrial Eng & Ops Rsch BS,,1
+323,Nuclear Engineering BS,,1
+324,Nuclear Engineering BS,,1
+325,Civil Engineering BS,,1
+326,Nuclear Engineering BS,,1
+327,Letters & Sci Undeclared UG,,1
+328,Environmental Engin Sci  BS,,1
+329,Letters & Sci Undeclared UG,,1
+330,Chemistry BS,,1
+331,Chemistry BS,,1
+332,Environmental Engin Sci  BS,,1
+333,Chemical Engineering BS,,1
+334,Industrial Eng & Ops Rsch BS,,1
+335,Nuclear Engineering BS,,1
+336,Engineering Undeclared UG,,1
+337,Mechanical Engineering BS,,1
+338,Letters & Sci Undeclared UG,,1
+339,Mechanical Engineering BS,,1
+340,Mechanical Engineering BS,,1
+341,Industrial Eng & Ops Rsch BS,,1
+342,Letters & Sci Undeclared UG,,1
+343,Industrial Eng & Ops Rsch BS,,1
+344,Letters & Sci Undeclared UG,,1
+345,Civil Engineering BS,,1
+346,Letters & Sci Undeclared UG,,1
+347,Letters & Sci Undeclared UG,,1
+348,Letters & Sci Undeclared UG,,1
+349,Chemical Engineering BS,,1
+350,Materials Science & Eng BS,,1
+351,Materials Science & Eng BS,,1
+352,Mechanical Engineering BS,,1
+353,Nuclear Engineering BS,,1
+354,Mechanical Engineering BS,,1
+355,Nuclear Engineering BS,,1
+356,Aerospace Engineering BS,,1
+357,Letters & Sci Undeclared UG,,1
+358,Mechanical Engineering BS,,5
+359,Chemical Engineering BS,,5
+360,Chemical Engineering BS,,5
+361,Bioengineering BS,,5
+362,Materials Science & Eng BS,,5
+363,Aerospace Engineering BS,,5
+364,Mechanical Engineering BS,,5
+365,Chemical Engineering BS,,5
+366,Letters & Sci Undeclared UG,,5
+367,Mechanical Engineering BS,,5
+368,Mechanical Engineering BS,,5
+369,Mechanical Engineering BS,,5
+370,Aerospace Engineering BS,,5
+371,Mechanical Engineering BS,,5
+372,Mechanical Engineering BS,,5
+373,Aerospace Engineering BS,,5
+374,Chemical Engineering BS,,5
+375,Mathematics BA,,5
+376,Mechanical Engineering BS,,5
+377,Energy Engineering BS,,5
+378,Bioengineering BS,,5
+379,Civil Engineering BS,,5
+380,Chemical Engineering BS,,5
+381,Mechanical Engineering BS,,5
+382,Mechanical Engineering BS,,5
+383,Civil Engineering BS,,5
+384,Physics BA,,5
+385,Mechanical Engineering BS,,5
+386,Mechanical Engineering BS,,5
+387,Nuclear Engineering BS,,5
+388,Mathematics BA,,5
+389,Nuclear Engineering BS,,5
+390,Bioengineering BS,,5
+391,Applied Mathematics BA,,5
+392,Mechanical Engineering BS,,5
+393,Mechanical Engineering BS,,5
+394,Mechanical Engineering BS,,5
+395,Mechanical Engineering BS,,5
+396,Chemical Engineering BS,,5
+397,Mechanical Engineering BS,,5
+398,Chemical Engineering BS,,5
+399,Mechanical Engineering BS,,5
+400,Letters & Sci Undeclared UG,,5
+401,Bioengineering BS,,5
+402,Chemical Engineering BS,,5
+403,Mechanical Engineering BS,,5
+404,Bioengineering BS,,5
+405,Bioengineering BS,,5
+406,Applied Mathematics BA,,5
+407,Mechanical Engineering BS,,5
+408,Energy Engineering BS,,5
+409,Chemical Engineering BS,,5
+410,Materials Science & Eng BS,,5
+411,Chemical Engineering BS,,5
+412,Mechanical Engineering BS,,5
+413,Aerospace Engineering BS,,5
+414,Applied Mathematics BA,,5
+415,Chemical Engineering BS,,5
+416,Mechanical Engineering BS,,5
+417,Materials Science & Eng BS,,5
+418,Materials Science & Eng BS,,5
+419,Mechanical Engineering BS,,5
+420,Bioengineering BS,,5
+421,Chemical Engineering BS,,5
+422,Chemical Engineering BS,,5
+423,Chemical Biology BS,,5
+424,Mechanical Engineering BS,,5
+425,Nuclear Engineering BS,,5
+426,Chemical Engineering BS,,5
+427,Chemical Engineering BS,,5
+428,Mechanical Engineering BS,,5
+429,Analytics BA,,5
+430,Mechanical Engineering BS,,5
+431,Aerospace Engineering BS,,5
+432,Chemical Engineering BS,,5
+433,Aerospace Engineering BS,,5
+434,Mechanical Engineering BS,,5
